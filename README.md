@@ -14,7 +14,7 @@ Let’s learn, build, and grow together, one repo at a time.
 You bring the ideas, I’ll bring the code ☕💻
 
 
-## 🌐 Socials
+## 🌐 Socials :
 
 <p>
   <a href="https://www.instagram.com/mewatisohil" target="_blank">
@@ -29,7 +29,7 @@ You bring the ideas, I’ll bring the code ☕💻
 </p>
 
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack :
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?logo=powerbi&logoColor=black)
