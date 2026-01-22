@@ -33,23 +33,16 @@ You bring the ideas, I’ll bring the code ☕💻
 
 
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sohil-khan-b59281330">
-    <img src="https://img.icons8.com/color/48/linkedin.png" />
-  </a>
-  <a href="https://www.instagram.com/mewatisohil?igsh=eTR3eWkwMnEzcHQ1">
-    <img src="https://img.icons8.com/color/48/instagram-new.png" />
-  </a>
-  <a href="https://github.com/the-sohil-khan">
-    <img src="https://img.icons8.com/color/48/github--v1.png" />
-  </a>
-</p>
-
-
-## 🌐 Socials
-
 <p>
-  <img src="https://skillicons.dev/icons?i=linkedin,instagram,github" />
+  <a href="https://www.linkedin.com/in/sohil-khan-b59281330" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/mewatisohil" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://github.com/SohilKhan63" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
 
@@ -69,16 +62,6 @@ You bring the ideas, I’ll bring the code ☕💻
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-green?logo=microsoftexcel&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-blue?logo=microsoftazure&logoColor=white)
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,plotly,azure,mysql,mssql,git,github" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=excel,powerbi" />
-</p>
-
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-sohil-khan&layout=compact)
