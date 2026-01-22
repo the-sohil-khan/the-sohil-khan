@@ -30,17 +30,28 @@ You bring the ideas, I’ll bring the code ☕💻
 
 
 
+
+
 <p align="left">
   <a href="https://www.linkedin.com/in/sohil-khan-b59281330">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"
+         width="48"
+         style="background:#0A66C2; padding:10px; border-radius:10px;" />
   </a>
+
   <a href="https://www.instagram.com/mewatisohil?igsh=eTR3eWkwMnEzcHQ1">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg"
+         width="48"
+         style="background:#E4405F; padding:10px; border-radius:10px;" />
   </a>
+
   <a href="https://github.com/the-sohil-khan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg"
+         width="48"
+         style="background:#181717; padding:10px; border-radius:10px;" />
   </a>
 </p>
+
 
 
 ## 🛠️ Tech Stack
