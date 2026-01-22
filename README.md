@@ -32,25 +32,19 @@ You bring the ideas, I’ll bring the code ☕💻
 
 
 
+
 <p align="left">
   <a href="https://www.linkedin.com/in/sohil-khan-b59281330">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"
-         width="48"
-         style="background:#0A66C2; padding:10px; border-radius:10px;" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" />
   </a>
-
   <a href="https://www.instagram.com/mewatisohil?igsh=eTR3eWkwMnEzcHQ1">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg"
-         width="48"
-         style="background:#E4405F; padding:10px; border-radius:10px;" />
+    <img src="https://img.icons8.com/color/48/instagram-new.png" />
   </a>
-
   <a href="https://github.com/the-sohil-khan">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg"
-         width="48"
-         style="background:#181717; padding:10px; border-radius:10px;" />
+    <img src="https://img.icons8.com/color/48/github--v1.png" />
   </a>
 </p>
+
 
 
 
