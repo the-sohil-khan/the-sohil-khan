@@ -1,16 +1,11 @@
 ## Hi there, I’m so glad you’re here!
 
-## 👋 Hey there, I'm Sohil Khan!
-
 Welcome to my little corner of GitHub 👋
 This is where curiosity meets code, and learning never stops. I’m passionate about growing in my career, picking up new skills, and making complex work feel a little more manageable—and a lot more rewarding.
 
 Here’s what lives here:
-
 🛠️ Projects shaped by hands-on learning and real-world problem solving
-
 📚 Lessons learned while balancing work, deadlines, and the occasional bug
-
 🌱 A bit of inspiration for anyone striving to survive—and thrive—in the corporate jungle
 
 
