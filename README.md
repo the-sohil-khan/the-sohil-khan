@@ -20,6 +20,8 @@ You bring the ideas, I’ll bring the code ☕💻
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram&logoColor=white)](https://www.instagram.com/mewatisohil?igsh=eTR3eWkwMnEzcHQ1)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)](https://github.com/the-sohil-khan)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 
 
 ## 🛠️ Tech Stack
