@@ -31,6 +31,14 @@ You bring the ideas, I’ll bring the code ☕💻
 ![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-orange?logo=mysql&logoColor=white)
 ![API](https://img.shields.io/badge/API-REST-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-blue)
+![Seaborn](https://img.shields.io/badge/Seaborn-teal)
+![Plotly](https://img.shields.io/badge/Plotly-black?logo=plotly&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-orange)
+![MS%20SQL%20Server](https://img.shields.io/badge/MS%20SQL%20Server-red?logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-green?logo=microsoftexcel&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-blue?logo=microsoftazure&logoColor=white)
 
 ---
 
