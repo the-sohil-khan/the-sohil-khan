@@ -55,14 +55,6 @@ You bring the ideas, I’ll bring the code ☕💻
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,azure,mysql,mssql,git" />
-</p>
-
-
-
-## 🛠️ Tech Stack
-
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas&logoColor=white)
@@ -77,6 +69,9 @@ You bring the ideas, I’ll bring the code ☕💻
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-green?logo=microsoftexcel&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-blue?logo=microsoftazure&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,azure,mysql,mssql,git" />
+</p>
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-sohil-khan&layout=compact)
