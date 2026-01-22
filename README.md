@@ -46,6 +46,19 @@ You bring the ideas, I’ll bring the code ☕💻
 </p>
 
 
+## 🌐 Socials
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linkedin,instagram,github" />
+</p>
+
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,azure,mysql,mssql,git" />
+</p>
+
 
 
 ## 🛠️ Tech Stack
