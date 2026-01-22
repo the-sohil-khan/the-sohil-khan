@@ -21,7 +21,7 @@ You bring the ideas, I’ll bring the code ☕💻
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)](https://github.com/the-sohil-khan)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-sohil-khan&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-user-name&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-sohil-khan&layout=compact)
 
 
 ## 🛠️ Tech Stack
