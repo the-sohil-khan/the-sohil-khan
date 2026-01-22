@@ -13,7 +13,6 @@ Whether you’re here for practical code, a bit of inspiration, or just to see h
 Let’s learn, build, and grow together, one repo at a time.  
 You bring the ideas, I’ll bring the code ☕💻
 
----
 
 ## 🌐 Socials
 
@@ -21,7 +20,7 @@ You bring the ideas, I’ll bring the code ☕💻
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram&logoColor=white)](https://www.instagram.com/mewatisohil?igsh=eTR3eWkwMnEzcHQ1)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)](https://github.com/the-sohil-khan)
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -40,6 +39,6 @@ You bring the ideas, I’ll bring the code ☕💻
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-green?logo=microsoftexcel&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-blue?logo=microsoftazure&logoColor=white)
 
----
+
 
 ⭐ *Always learning, building, and improving — one dataset at a time.*
