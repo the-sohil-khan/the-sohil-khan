@@ -20,10 +20,6 @@ You bring the ideas, I’ll bring the code ☕💻
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram&logoColor=white)](https://www.instagram.com/mewatisohil?igsh=eTR3eWkwMnEzcHQ1)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)](https://github.com/the-sohil-khan)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-sohil-khan&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-sohil-khan&layout=compact)
-
-
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
@@ -42,5 +38,6 @@ You bring the ideas, I’ll bring the code ☕💻
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-blue?logo=microsoftazure&logoColor=white)
 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-sohil-khan&layout=compact)
 
 ⭐ *Always learning, building, and improving — one dataset at a time.*
