@@ -28,7 +28,7 @@ You bring the ideas, I’ll bring the code ☕💻
   </a>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=red)](https://www.linkedin.com/in/sohil-khan-b59281330)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-red?logo=linkedin&logoColor=pink)](https://www.linkedin.com/in/sohil-khan-b59281330)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram&logoColor=white)](https://www.instagram.com/mewatisohil?igsh=eTR3eWkwMnEzcHQ1)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)](https://github.com/the-sohil-khan)
 
